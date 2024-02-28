@@ -1,4 +1,4 @@
-# NextGen---The-Simulators-
+# Data Assimilation of USGS Streamflow Data in the Nextgen Framework  ----NextGen---The-Simulators-
 Data Assimilation (DA) of USGS Data into the Nextgen National Water Model (NWM) framework 
 The USGS data retriver BMI used nwis python library from https://github.com/USGS-python/dataretrieval
 The The ensemble Kalman filter (EnKF) data assimialtion is based on a FilterPy library. FilterPy is a Python library that implements a number of Bayesian filters. 
